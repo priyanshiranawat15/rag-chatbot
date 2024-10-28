@@ -1,0 +1,7 @@
+langchain
+pypdf
+langchain-community
+psycopg2
+python-dotenv
+numpy
+pgvector
